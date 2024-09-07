@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 👋 Hi, I’m Mateo!
-- 📖 I'm a student at a Technical Salesian School.
+- 📖 I'm currently in high school, though prioritizing my own self-directed studies. My research focus mainly on EECS and analog LLMs.
 - Homelabber!
 
 
