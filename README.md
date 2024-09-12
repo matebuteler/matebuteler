@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 👋 Hi, I’m Mateo!
-- 📖 I'm currently in high school, though prioritizing my own self-directed studies.I aspire to research analog LLMs and general EECS.
+- 📖 I'm currently in high school, though prioritizing my own self-directed studies.
+- I aspire to research analog LLMs and EECS in general.
 - Homelabber!
 
 
